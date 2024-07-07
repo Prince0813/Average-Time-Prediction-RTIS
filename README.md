@@ -1,1 +1,2 @@
 # Average-Time-Prediction-RTIS
+The Average-Time-Prediction-RTIS is a real-time data analysis tool specifically developed for railway systems. This system leverages historical data, real-time updates, and advanced machine learning algorithms to predict train arrival and departure times. It is designed to enhance the efficiency and reliability of railway operations, providing accurate information to passengers, railway staff, and management.
